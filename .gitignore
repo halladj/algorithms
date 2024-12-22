@@ -1,0 +1,5 @@
+/course/node_modules
+/kata-machine/.git
+/kata-machine/node_modules/
+/kata-machine/.gitignore
+/course/out/
